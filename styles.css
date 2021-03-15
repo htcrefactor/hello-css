@@ -34,3 +34,15 @@ a {
 p {
   text-align: left;
 }
+
+/* Not recommended */
+em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+strong {
+  font-weight: normal;
+  font-style: italic;
+}
+/* Not recommended */
